@@ -13,6 +13,7 @@ This Power BI dashboard provides a comprehensive overview of staff and departmen
 * **Power Query (M Language)** – For data shaping and custom calculations
 * **Canva** – For layout design elements (optional)
 
+
 ---
 
 ### 📌 Key Features
@@ -45,3 +46,8 @@ This dashboard is ideal for:
 * HR departments to track compensation and headcount
 * Finance teams to monitor project and payroll costs
 * Department heads to stay aligned
+
+
+### 📄 Dashboard Preview (PDF)
+
+[View Full Dashboard (PDF)](./hr_dashboard.pdf)
