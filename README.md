@@ -50,4 +50,4 @@ This dashboard is ideal for:
 
 ### 📄 Dashboard Preview (PDF)
 
-[View Full Dashboard (PDF)](./hr_dashboard.pdf)
+![HR Dashboard Preview](./hr_dashboard.png)
